@@ -22,7 +22,6 @@
         "@angular/platform-browser": "5.2.2",
         "@angular/platform-browser-dynamic": "5.2.2",
         "@angular/router": "5.2.2",
-        "@angular/upgrade": "5.2.2",
         "angular-in-memory-web-api": "0.5.3",
         "bootstrap": "4.0.0",
         "core-js": "2.5.3",
