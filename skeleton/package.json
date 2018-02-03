@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Mike's Skeleton",
     "scripts": {
-        "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
+        "start": "concurrently \"npm tsc -w\" \"lite-server\" ",
         "lite": "lite-server",
         "tsc": "tsc",
         "tsc:w": "tsc -w"
