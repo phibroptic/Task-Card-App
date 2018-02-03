@@ -11,6 +11,7 @@ let AppComponent = class AppComponent {
 };
 AppComponent = __decorate([
     core_1.Component({
+        moduleId: 'module.id',
         selector: 'my-app',
         template: '<h1>Skeleton Project</h1>'
     })
