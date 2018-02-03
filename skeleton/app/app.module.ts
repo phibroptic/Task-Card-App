@@ -10,10 +10,7 @@ import { CardComponent } from './card/card.component';
         AppComponent,
         CardComponent
      ],
-    bootstrap: [ 
-        AppComponent,
-        CardComponent
-             ]
+    bootstrap: [ AppComponent ]
 })
 
 export class AppModule { }
